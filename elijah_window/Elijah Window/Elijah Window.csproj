@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{50CC6651-B79F-461F-884F-4E82715181B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Elijah_Window</RootNamespace>
+    <AssemblyName>Elijah_Window</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="ElijahSoft.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ElijahSoft.Designer.cs">
+      <DependentUpon>ElijahSoft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TabElijahSoftware.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TabElijahSoftware.Designer.cs">
+      <DependentUpon>TabElijahSoftware.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ElijahSoft.resx">
+      <DependentUpon>ElijahSoft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TabElijahSoftware.resx">
+      <DependentUpon>TabElijahSoftware.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Softwares\ElijahSofts\以利亚圣经投影工具\以利亚圣经投影工具.exe.config" />
+    <None Include="Softwares\ElijahSofts\以利亚圣经投影工具\圣经投影工具使用说明.doc" />
+    <None Include="Softwares\ElijahSofts\以利亚灵歌投影工具\以利亚灵歌投影工具.exe.config" />
+    <None Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌投影工具使用说明.doc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\20111204\" />
+    <Folder Include="Softwares\PublicSofts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\TopLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\BottomLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Close2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Close3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\ButtonDefault.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\tab1logo.png" />
+    <EmbeddedResource Include="Images\tab2logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Softwares\ElijahSofts\以利亚圣经投影工具\Database\bible.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Softwares\ElijahSofts\以利亚圣经投影工具\Logo.ico" />
+    <Content Include="Softwares\ElijahSofts\以利亚圣经投影工具\SoftConfig.xml" />
+    <Content Include="Softwares\ElijahSofts\以利亚圣经投影工具\以利亚圣经投影工具.exe" />
+    <Content Include="Softwares\ElijahSofts\以利亚圣经投影工具\历史列表\测试列表1.txt" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\AxInterop.WMPLib.dll" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\Interop.WMPLib.dll" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\Logo.ico" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\SoftConfig.xml" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\以利亚灵歌投影工具.exe" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\03赞美之泉\07展开清晨的翅膀\082主祷文.mp3" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\03赞美之泉\07展开清晨的翅膀\082主祷文.txt" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\20120625\001主祷文.mp3" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\20120625\001主祷文.txt" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\001主祷文.mp3" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\001主祷文.txt" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\002主祷文.mp3" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\002主祷文.txt" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\003主祷文.mp3" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\003主祷文.txt" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\004主祷文.mp3" />
+    <Content Include="Softwares\ElijahSofts\以利亚灵歌投影工具\灵歌\自定义列表\测试专辑1\004主祷文.txt" />
+    <EmbeddedResource Include="Images\calc.ico" />
+    <EmbeddedResource Include="Images\cmd.ico" />
+    <EmbeddedResource Include="Images\excel.ico" />
+    <EmbeddedResource Include="Images\notepad.ico" />
+    <EmbeddedResource Include="Images\WINWORD.ico" />
+    <EmbeddedResource Include="Images\logo.ico" />
+    <EmbeddedResource Include="Images\BottomBack.png" />
+    <EmbeddedResource Include="Images\MainBack.png" />
+    <EmbeddedResource Include="Images\border.png" />
+    <EmbeddedResource Include="Images\tab1logo1.png" />
+    <EmbeddedResource Include="Images\tab1logo2.png" />
+    <EmbeddedResource Include="Images\tab2logo1.png" />
+    <EmbeddedResource Include="Images\tab2logo2.png" />
+    <EmbeddedResource Include="Images\MainBackItem.png" />
+    <EmbeddedResource Include="Images\MainBackItem_click.png" />
+    <EmbeddedResource Include="Images\MainBackItem_hover.png" />
+    <EmbeddedResource Include="Images\bottombotton.png" />
+    <EmbeddedResource Include="Images\bottombotton1.png" />
+    <EmbeddedResource Include="Images\bottombotton2.png" />
+    <EmbeddedResource Include="Images\TopLine.png" />
+    <Content Include="logo.ico" />
+    <Content Include="Setting.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

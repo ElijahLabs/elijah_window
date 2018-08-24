@@ -1,0 +1,30 @@
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\bin\Debug\基督爱圣经投影工具.exe.config
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\bin\Debug\Database\bible.mdb
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\bin\Debug\osbible.ico
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\bin\Debug\历史列表\测试列表1.txt
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\bin\Debug\基督爱圣经投影工具.exe
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\bin\Debug\基督爱圣经投影工具.pdb
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\ResolveAssemblyReference.cache
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.Properties.Resources.resources
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.ucLinkPanel.resources
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.UI.FormControl.resources
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.UI.FormInput.resources
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.UI.FormScreen.resources
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.csproj.GenerateResource.Cache
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\基督爱圣经投影工具.exe
+F:\作品\OpenSoul\osBible\code\OpenBible for slide\OpenBible\obj\Debug\基督爱圣经投影工具.pdb
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\bin\Debug\Database\bible.mdb
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\bin\Debug\历史列表\测试列表1.txt
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\ResolveAssemblyReference.cache
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.Properties.Resources.resources
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.ucLinkPanel.resources
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.UI.FormControl.resources
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.UI.FormInput.resources
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\OpenBible.UI.FormScreen.resources
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\bin\Debug\以利亚圣经投影工具.exe.config
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\bin\Debug\以利亚圣经投影工具.exe
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\bin\Debug\以利亚圣经投影工具.pdb
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\GenerateResource.read.1.tlog
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\GenerateResource.write.1.tlog
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\以利亚圣经投影工具.exe
+C:\My Work\Product Code\Other Workspace\圣经投影\code\OpenBible for slide\OpenBible\obj\Debug\以利亚圣经投影工具.pdb

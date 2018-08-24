@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBible", "OpenBible\OpenBible.csproj", "{826EDDE7-12E9-4D9D-8CB0-CDECF8DF1B28}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{B2AB6243-E36A-4190-9D00-44F6FE6CA114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{826EDDE7-12E9-4D9D-8CB0-CDECF8DF1B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826EDDE7-12E9-4D9D-8CB0-CDECF8DF1B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826EDDE7-12E9-4D9D-8CB0-CDECF8DF1B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826EDDE7-12E9-4D9D-8CB0-CDECF8DF1B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AB6243-E36A-4190-9D00-44F6FE6CA114}.Debug|Any CPU.ActiveCfg = Debug
+		{B2AB6243-E36A-4190-9D00-44F6FE6CA114}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

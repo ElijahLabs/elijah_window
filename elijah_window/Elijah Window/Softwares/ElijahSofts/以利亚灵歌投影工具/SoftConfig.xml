@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSetting>
+  <logo value="Logo.ico" />
+  <Label value="灵歌投影工具,可以播放灵歌，并且可以在投影上显示歌词" />
+  <Start value="以利亚灵歌投影工具.exe"/>
+</AppSetting>

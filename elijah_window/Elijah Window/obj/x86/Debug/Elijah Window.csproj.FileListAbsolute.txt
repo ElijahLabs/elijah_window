@@ -1,0 +1,27 @@
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\Elijah_Window.FrmMain.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Debug\Elijah_Window.exe
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Debug\Elijah_Window.pdb
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\Elijah_Window.ElijahSoft.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\Elijah_Window.Properties.Resources.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\Elijah_Window.TabElijahSoftware.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\Elijah_Window.exe
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Debug\Elijah_Window.pdb
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Debug\Setting.xml
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.exe
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.pdb
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\bin\Debug\Setting.xml
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\bin\Debug\Elijah_Window.exe
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\bin\Debug\Elijah_Window.pdb
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.ElijahSoft.resources
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.FrmMain.resources
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.Properties.Resources.resources
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.TabElijahSoftware.resources
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\chat_log\3110616\FileRecv\Elijah Window(3)\Elijah Window\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.exe
+C:\Users\Administrator\Desktop\Elijah Window(3)\Elijah Window\obj\x86\Debug\Elijah_Window.pdb
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Debug\Elijah_Window.exe.config

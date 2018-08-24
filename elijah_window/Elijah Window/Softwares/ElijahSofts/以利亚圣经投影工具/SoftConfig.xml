@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSetting>
+  <logo value="Logo.ico" />
+  <Label value="圣经投影工具,在投影上显示圣经，并且支持自定义列表等功能" />
+  <Start value="以利亚圣经投影工具.exe"/>
+</AppSetting>

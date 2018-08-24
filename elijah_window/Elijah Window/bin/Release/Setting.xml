@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Setting>
+  <Buttons>
+    <add key="1" value="" />
+    <add key="2" value="" />
+    <add key="3" value="" />
+    <add key="4" value="" />
+    <add key="5" value="" />
+  </Buttons>
+
+</Setting>

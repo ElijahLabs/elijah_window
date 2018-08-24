@@ -1,0 +1,25 @@
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Release\Setting.xml
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Release\Elijah_Window.exe
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Release\Elijah_Window.pdb
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\ResolveAssemblyReference.cache
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.ElijahSoft.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.FrmMain.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.Properties.Resources.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.TabElijahSoftware.resources
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\GenerateResource.read.1.tlog
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\GenerateResource.write.1.tlog
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.exe
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.pdb
+C:\My Work\Product Code\Other Workspace\Elijah Window\Elijah Window\bin\Release\Elijah_Window.exe.config
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\bin\Release\Setting.xml
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\bin\Release\Softwares\ElijahSofts\以利亚圣经投影工具\Database\bible.mdb
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\bin\Release\Elijah_Window.exe.config
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\bin\Release\Elijah_Window.exe
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\bin\Release\Elijah_Window.pdb
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.ElijahSoft.resources
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.FrmMain.resources
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.Properties.Resources.resources
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.TabElijahSoftware.resources
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.exe
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\obj\x86\Release\Elijah_Window.pdb
+F:\elijah_products\elijah_windows\代码\Elijah Window\Elijah Window\obj\x86\Release\Elijah Window.csproj.GenerateResource.Cache

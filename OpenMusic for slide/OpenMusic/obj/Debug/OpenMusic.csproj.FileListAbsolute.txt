@@ -1,0 +1,51 @@
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.exe.config
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\osmusic.ico
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\03赞美之泉\07展开清晨的翅膀\082主祷文.mp3
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\03赞美之泉\07展开清晨的翅膀\082主祷文.txt
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\自定义列表\测试专辑1\001主祷文.mp3
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\自定义列表\测试专辑1\001主祷文.txt
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.exe.manifest
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.application
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.exe
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.pdb
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\AxInterop.WMPLib.dll
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\bin\Debug\Interop.WMPLib.dll
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\ResolveAssemblyReference.cache
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.Properties.Resources.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormControl.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormInput.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormList.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormLyric.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormPop.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormScreen.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormSearchResult.resources
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.csproj.GenerateResource.Cache
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.exe.manifest
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.application
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.exe
+F:\作品\OpenSoul\osMusic\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.pdb
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.exe.config
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.exe
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.pdb
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\osmusic.ico
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\03赞美之泉\07展开清晨的翅膀\082主祷文.mp3
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\03赞美之泉\07展开清晨的翅膀\082主祷文.txt
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\自定义列表\测试专辑1\001主祷文.mp3
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\灵歌\自定义列表\测试专辑1\001主祷文.txt
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.exe.manifest
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.application
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.exe
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\基督爱灵歌投影工具.pdb
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\AxInterop.WMPLib.dll
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\bin\Debug\Interop.WMPLib.dll
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\ResolveAssemblyReference.cache
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.Properties.Resources.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormControl.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormInput.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormList.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormLyric.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormPop.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormScreen.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\OpenMusic.UI.FormSearchResult.resources
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.exe.manifest
+C:\My Work\Product Code\Other Workspace\灵歌投影\code\OpenMusic for slide\OpenMusic\obj\Debug\基督爱灵歌投影工具.application

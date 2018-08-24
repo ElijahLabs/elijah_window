@@ -1,0 +1,5 @@
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\bin\Debug\SetupElijahWindowLibrary.dll
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\bin\Debug\SetupElijahWindowLibrary.pdb
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\obj\Debug\SetupElijahWindowLibrary.dll
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\obj\Debug\SetupElijahWindowLibrary.pdb

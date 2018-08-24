@@ -1,0 +1,10 @@
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\bin\Release\SetupElijahWindowLibrary.dll
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\bin\Release\SetupElijahWindowLibrary.pdb
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\obj\Release\SetupElijahWindowLibrary.dll
+C:\My Work\Product Code\Other Workspace\Elijah Window\SetupElijahWindowLibrary\obj\Release\SetupElijahWindowLibrary.pdb
+F:\elijah_products\elijah_windows\代码\Elijah Window\SetupElijahWindowLibrary\bin\Release\SetupElijahWindowLibrary.dll
+F:\elijah_products\elijah_windows\代码\Elijah Window\SetupElijahWindowLibrary\bin\Release\SetupElijahWindowLibrary.pdb
+F:\elijah_products\elijah_windows\代码\Elijah Window\SetupElijahWindowLibrary\obj\Release\ResolveAssemblyReference.cache
+F:\elijah_products\elijah_windows\代码\Elijah Window\SetupElijahWindowLibrary\obj\Release\SetupElijahWindowLibrary.dll
+F:\elijah_products\elijah_windows\代码\Elijah Window\SetupElijahWindowLibrary\obj\Release\SetupElijahWindowLibrary.pdb
